@@ -4,6 +4,7 @@ venv/
 env/
 bin/
 lib/
+.adk/
 __pycache__/
 *.py[cod]
 *$py.class
